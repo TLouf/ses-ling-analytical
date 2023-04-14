@@ -1,0 +1,8 @@
+name: ses-ling-analytical
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - jupyterlab
