@@ -1,6 +1,6 @@
 ses-ling-analytical
 ===================
-<!-- [![osf](https://img.shields.io/badge/doi-10.17605%2Fosf.io%2Fc86ge-blue.svg?style=flat-square)](https://doi.org/10.17605/osf.io/c86ge) -->
+[![osf](https://img.shields.io/badge/doi-10.17605%2Fosf.io%2FAHM6J-blue.svg?style=flat-square)](https://doi.org/10.17605/osf.io/AHM6J)
 
 Mathematica code for the mathematical analysis of the mean-field approximation of our
 agent-based model in a simple setting. See the paper for more details on the model.
